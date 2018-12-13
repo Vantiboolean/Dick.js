@@ -206,7 +206,7 @@ let websocket = new Websocket('URL');
 ```
 
 
-## **<a href="#p3">WebSocket聊天室(Broadcast)Sample Server.js</a>**
+## **<a href="#p4">WebSocket聊天室(Broadcast)Sample Server.js</a>**
 ```javascript
 var clients = [];
 var uuid = require('node-uuid');
