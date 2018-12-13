@@ -105,7 +105,21 @@ Page.VM(e){}
 ```
 
 ## DickZXY.js 小程序知晓云api封装
-
+#### 使用说明
+引入dickZXY.js
+```javascript
+import {
+  InsertRecord,
+  Select,
+  ConditionSelect
+} from './dick/dickZXY'
+```
+js中使用
+```
+let insertRecord = new InsertRecord(config.hualao_tableID, record)
+```
+实例化dick类
+根据构建参数实现api操作
 #### ✅查询列表
 
 ```javascript
