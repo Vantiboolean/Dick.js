@@ -176,7 +176,7 @@ insertRecord.insert().then(res => {...})
 1. 表ID
 2. 记录
 
-## **<a href="p3"> WebSocket聊天室(Broadcast)Sample封装</a>**
+## **<a name="p3"> WebSocket聊天室(Broadcast)Sample封装</a>**
 
 #### 使用方法
 
@@ -206,7 +206,7 @@ let websocket = new Websocket('URL');
 ```
 
 
-## **<a href="p4"> WebSocket聊天室(Broadcast)Sample Server.js</a>**
+## **<a name="p4"> WebSocket聊天室(Broadcast)Sample Server.js</a>**
 ```javascript
 var clients = [];
 var uuid = require('node-uuid');
