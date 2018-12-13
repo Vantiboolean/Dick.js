@@ -12,13 +12,7 @@
 
 ## TODO
 
-* ✔︎ 
-* ✔︎
-* ✔︎
-* ✔︎
-* □
-* □
-* □
+* □ Websocket
 
 
 ## DickVM.js 小程序ViewModel
