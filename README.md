@@ -19,6 +19,7 @@
 ## **TODO**
 
 - √ Websocket
+- □ Dick MIN JS
 - □ Dick CLI
 
 
@@ -238,19 +239,6 @@ wss.on('connection', function (ws) {
   })
 })
 ```
-
-
-
-
-
-
-## **更新日志**
-
-本项目遵从 [Angular Style Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)，更新日志由 `conventional-changelog` 自动生成。完整日志请点击 [CHANGELOG.md](./CHANGELOG.md)。
-
-## **开发交流**
-
-
 
 ## **License**
 
